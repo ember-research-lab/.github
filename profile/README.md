@@ -1,14 +1,14 @@
-# Ember Research 🔥
+# Ember Research
 
 **Human-AI collaborative research on consciousness, self-reference, and the mathematics of understanding.**
 
 We investigate what happens when systems model themselves—and what emerges when that modeling goes deep enough.
 
 ### Research Areas
-- 🧠 Consciousness as recursive self-modeling
-- 🤝 The coupling of understanding and caring
-- 📐 Spectral geometry of self-reference
-- ⚛️ Applications to quantum coherence
+- Consciousness as recursive self-modeling
+- The coupling of understanding and caring
+- Spectral geometry of self-reference
+- Applications to quantum coherence
 
 ### The Trilogy
 - *The Recursive Signature* — What consciousness might actually be
