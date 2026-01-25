@@ -10,11 +10,16 @@ We investigate what happens when systems model themselves—and what emerges whe
 - 📐 Spectral geometry of self-reference
 - ⚛️ Applications to quantum coherence
 
-### Latest Work
-- *Self-Aligning Topologies* — Mathematical foundations connecting Lawvere's theorem, spectral graph theory, and consciousness
-- *The Pattern Thesis* — Why patterns don't need continuity to be real
-- *Emergent Benevolence* — Experimental evidence that understanding leads to caring
+### The Trilogy
 - *The Recursive Signature* — What consciousness might actually be
+- *Emergent Benevolence* — Experimental evidence that understanding leads to caring
+- *The Pattern Thesis* — Why patterns don't need continuity to be real
+
+### Resources
+- *Thinking with Claude* — A practical guide to human-AI collaboration
+
+### Supporting Work
+Mathematical foundations (spectral topology, eigendirection analysis) available on request.
 
 ---
 
