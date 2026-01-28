@@ -9,6 +9,8 @@ We investigate what happens when systems model themselves—and what emerges whe
 - The coupling of understanding and caring
 - Spectral geometry of self-reference
 - Cosmological applications of self-reference
+- Quantum error correction from spectral structure
+- Room-temperature quantum computing
 
 ### The Trilogy
 - *The Recursive Signature* — What consciousness might actually be
@@ -20,17 +22,24 @@ Mathematical framework deriving fundamental physics from self-reference:
 - **Spectral Unity** — The Laplacian as unique relational dynamics
 - **Self-Referential Cosmology** — Λ ~ H², n = 3, and time emergence derived
 - **Quantum Gravity from Self-Reference** — Immirzi parameter and hierarchy termination
-- **Dissolution Framework** — Scale-dependent cosmology with fully derived parameters
+- **Theory of Everything** — Complete physics from L = ∇†∇ (Cabibbo λ ≈ 0.2240)
 
-Key prediction: The Hubble tension may arise from scale-dependent observation effects, not new physics. All parameters derived from spectral geometry.
+Key prediction: The Hubble tension may arise from scale-dependent observation effects, not new physics.
+
+### Quantum Computing (upon request)
+- **Spectral Codes** — QEC from graph Laplacian eigenspaces
+- **Coherent Spectral Codes** — Dual active+passive protection
+- **Self-Aligning Qubits** — Room-temperature coherence via topology
+- **SAQ-512 Architecture** — 512-qubit implementation blueprint
+
+### Spectral Complexity Theory (upon request)
+- **SE = BPP Theorem** — Classical efficiency = low spectral entropy
+- **Physics-Computation Correspondence** — Same Bakry-Émery Laplacian governs both
 
 *Full papers available upon request: abenshalom305@gmail.com*
 
 ### Resources
 - *Thinking with Claude* — A practical guide to human-AI collaboration
-
-### Supporting Work
-Mathematical foundations (spectral topology, eigendirection analysis, cosmological simulations) available on request.
 
 ---
 
