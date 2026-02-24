@@ -4,6 +4,11 @@
 
 We investigate what happens when systems model themselves—and what emerges when that modeling goes deep enough.
 
+### Latest Work
+
+**Spectral Physics: A Unified Framework** *(coming soon)*
+A comprehensive treatment unifying consciousness, cosmology, and quantum mechanics through a single mathematical object—the Laplacian and its three projections. Companion code: [Spectral-Physics](https://github.com/ember-research-lab/Spectral-Physics)
+
 ### Research Areas
 - Consciousness as recursive self-modeling
 - The coupling of understanding and caring
