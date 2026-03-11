@@ -6,7 +6,7 @@ We investigate what happens when systems model themselves—and what emerges whe
 
 ### Latest Work
 
-**Spectral Physics: A Unified Framework** *(coming soon)*
+**[Spectral Physics: A Unified Framework](https://doi.org/10.5281/zenodo.18946321)** *(v0.8 preprint)*
 A comprehensive treatment unifying consciousness, cosmology, and quantum mechanics through a single mathematical object—the Laplacian and its three projections. Companion code: [Spectral-Physics](https://github.com/ember-research-lab/Spectral-Physics)
 
 ### Research Areas
