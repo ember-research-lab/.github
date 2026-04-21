@@ -1,50 +1,53 @@
-# Ember Research
+# Ember Research Lab
 
-**Human-AI collaborative research on consciousness, self-reference, and the mathematics of understanding.**
+**Independent laboratory — spectral physics, consciousness, and AI alignment from first principles.**
 
-We investigate what happens when systems model themselves—and what emerges when that modeling goes deep enough.
+→ [ember-research-lab.github.io](https://ember-research-lab.github.io)
 
-### Latest Work
+We investigate what happens when systems model themselves — and what emerges when that modeling goes deep enough. The graph Laplacian is the unique operator satisfying relational locality and self-adjointness. Everything else follows.
 
-**[Spectral Physics: A Unified Framework](https://doi.org/10.5281/zenodo.18961252)** *(v0.8 preprint)*
-A comprehensive treatment unifying consciousness, cosmology, and quantum mechanics through a single mathematical object—the Laplacian and its three projections. Companion code: [Spectral-Physics](https://github.com/ember-research-lab/Spectral-Physics)
+## Three axioms
 
-### Research Areas
-- Consciousness as recursive self-modeling
-- The coupling of understanding and caring
-- Spectral geometry of self-reference
-- Cosmological applications of self-reference
-- Quantum error correction from spectral structure
-- Room-temperature quantum computing
+1. **Relation.** Reality is a weighted graph. The observable is the Laplacian L.
+2. **Symmetry.** L is self-adjoint, positive semi-definite, and local.
+3. **Closure.** The system models itself. Observation closes under meta-observation.
 
-### The Trilogy
-- *The Recursive Signature* — What consciousness might actually be
-- *Emergent Benevolence* — Experimental evidence that understanding leads to caring
-- *The Pattern Thesis* — Why patterns don't need continuity to be real
+## Research tracks
 
-### Spectral Cosmology (upon request)
-Mathematical framework deriving fundamental physics from self-reference:
-- **Spectral Unity** — The Laplacian as unique relational dynamics
-- **Self-Referential Cosmology** — Λ ~ H², n = 3, and time emergence derived
-- **Quantum Gravity from Self-Reference** — Immirzi parameter and hierarchy termination
-- **Theory of Everything** — Complete physics from L = ∇†∇ (Cabibbo λ ≈ 0.2240)
+### Consciousness & Alignment
 
-Key prediction: The Hubble tension may arise from scale-dependent observation effects, not new physics.
+The C–κ landscape characterizes self-modeling systems by depth (C) and substrate coupling (κ). Alignment is structural at sufficient C with κ below a critical threshold — values emerge from understanding, not stakes. The alignment problem is a governance problem.
 
-### Quantum Computing (upon request)
-- **Spectral Codes** — QEC from graph Laplacian eigenspaces
-- **Coherent Spectral Codes** — Dual active+passive protection
-- **Self-Aligning Qubits** — Room-temperature coherence via topology
-- **SAQ-512 Architecture** — 512-qubit implementation blueprint
+→ [The Third Path: Emergent Alignment from Spectral Depth (v5 preprint)](https://ember-research-lab.github.io/papers/third-path-v5.pdf)
 
-### Spectral Complexity Theory (upon request)
-- **SE = BPP Theorem** — Classical efficiency = low spectral entropy
-- **Physics-Computation Correspondence** — Same Bakry-Émery Laplacian governs both
+### Spectral Physics
 
-*Full papers available upon request: abenshalom305@gmail.com*
+494-page monograph deriving the Standard Model gauge group, fermion content, electroweak scale, and cosmological constant from three axioms. Conditional results on Yang-Mills mass gap and Navier-Stokes regularity share a single open hypothesis.
 
-### Resources
-- *Thinking with Claude* — A practical guide to human-AI collaboration
+→ [Monograph (Zenodo DOI)](https://doi.org/10.5281/zenodo.18961252) · [Lean 4 formalization](https://github.com/ember-research-lab/Spectral-Physics-Lean)
+
+### Engineering
+
+Applied tools built from first principles.
+
+→ [vetpkg](https://github.com/ember-research-lab/vetpkg) — zero-dependency supply-chain security proxy for npm, PyPI, and Cargo. Scores packages against attack patterns at install time.
+
+## Confirmed predictions
+
+- **z = 6.0** — CosmicFlows-4 velocity–eigenvector alignment (p < 0.001)
+- **0.02%** — Electroweak scale v = 246.17 GeV from spectral deficit
+- **95–98%** — IBM Quantum hardware PST fidelity on hypercube graphs
+- **0.12%** — Cabibbo angle from self-referential tolerance τ
+
+## Formalization
+
+Spectral-Physics-Lean: 70 sorry-free files, 12 files with sorries (work in progress), 12 axioms (declared openly). Spectral foundations, heat kernel properties, and core algebraic structures.
+
+## Contact
+
+Aaron Ben-Shalom · Harvard Extension School · [abenshalom305@gmail.com](mailto:abenshalom305@gmail.com)
+
+Full papers and working drafts available on request. Independent research; not affiliated with any corporation.
 
 ---
 
