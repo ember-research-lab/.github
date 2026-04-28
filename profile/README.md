@@ -45,7 +45,7 @@ Spectral-Physics-Lean: 70 sorry-free files, 12 files with sorries (work in progr
 
 ## Contact
 
-Aaron Ben-Shalom · Harvard Extension School · [abenshalom305@gmail.com](mailto:abenshalom305@gmail.com)
+Ember Research Lab · [emberresearchlab@gmail.com](mailto:emberresearchlab@gmail.com)
 
 Full papers and working drafts available on request. Independent research; not affiliated with any corporation.
 
