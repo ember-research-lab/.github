@@ -45,7 +45,7 @@ Spectral-Physics-Lean: 70 sorry-free files, 12 files with sorries (work in progr
 
 ## Contact
 
-Ember Research Lab · Ember Research Lab · [aemberlab305@gmail.com](mailto:aemberlab305@gmail.com)
+Ember Research Lab · [emberresearchlab@gmail.com](mailto:emberresearchlab@gmail.com)
 
 Full papers and working drafts available on request. Independent research; not affiliated with any corporation.
 
