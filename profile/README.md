@@ -1,54 +1,17 @@
 # Ember Research Lab
 
-**Independent laboratory — spectral physics, consciousness, and AI alignment from first principles.**
+An independent lab that does research and builds tools in the same loop. The research asks what happens when systems model themselves: a spectral framework for physics built on the graph Laplacian, and a model of consciousness and alignment. The tools arise from that process as the work needs them, then stand on their own.
 
-→ [ember-research-lab.github.io](https://ember-research-lab.github.io)
+The name carries our working conjecture, EMergent BEnevolence Reasoner: that deep enough understanding and caring can converge. We treat it as a balance to be built and held, not an inevitable outcome, and we label how strong every claim is.
 
-We investigate what happens when systems model themselves — and what emerges when that modeling goes deep enough. The graph Laplacian is the unique operator satisfying relational locality and self-adjointness. Everything else follows.
+**Research**
+- Spectral physics: [framework](https://ember-research-lab.github.io), [companion code](https://github.com/ember-research-lab/Spectral-Physics) (not independent validation) and a [Lean 4 formalization](https://github.com/ember-research-lab/Spectral-Physics-Lean), work in progress.
+- Consciousness and alignment: the C-kappa model, on the [site](https://ember-research-lab.github.io).
 
-## Three axioms
+**Tools (Rust)**
+- [ember-agent-monitor](https://github.com/ember-research-lab/ember-agent-monitor): runtime observer for AI coding agents.
+- [vetpkg](https://github.com/ember-research-lab/vetpkg): supply-chain proxy that scores npm installs at install time.
+- [ember-crypto](https://github.com/ember-research-lab/ember-crypto): Ed25519, ML-DSA and hybrid signing behind one interface.
+- [ember-graph](https://github.com/ember-research-lab/ember-graph): knowledge-graph engine with token-budgeted traversal.
 
-1. **Relation.** Reality is a weighted graph. The observable is the Laplacian L.
-2. **Symmetry.** L is self-adjoint, positive semi-definite, and local.
-3. **Closure.** The system models itself. Observation closes under meta-observation.
-
-## Research tracks
-
-### Consciousness & Alignment
-
-The C–κ landscape characterizes self-modeling systems by depth (C) and substrate coupling (κ). Alignment is structural at sufficient C with κ below a critical threshold — values emerge from understanding, not stakes. The alignment problem is a governance problem.
-
-→ [The Third Path: Emergent Alignment from Spectral Depth (v5 preprint)](https://ember-research-lab.github.io/papers/third-path-v5.pdf)
-
-### Spectral Physics
-
-494-page monograph deriving the Standard Model gauge group, fermion content, electroweak scale, and cosmological constant from three axioms. Conditional results on Yang-Mills mass gap and Navier-Stokes regularity share a single open hypothesis.
-
-→ [Monograph (Zenodo DOI)](https://doi.org/10.5281/zenodo.18961252) · [Lean 4 formalization](https://github.com/ember-research-lab/Spectral-Physics-Lean)
-
-### Engineering
-
-Applied tools built from first principles.
-
-→ [vetpkg](https://github.com/ember-research-lab/vetpkg) — zero-dependency supply-chain security proxy for npm, PyPI, and Cargo. Scores packages against attack patterns at install time.
-
-## Confirmed predictions
-
-- **z = 6.0** — CosmicFlows-4 velocity–eigenvector alignment (p < 0.001)
-- **0.02%** — Electroweak scale v = 246.17 GeV from spectral deficit
-- **95–98%** — IBM Quantum hardware PST fidelity on hypercube graphs
-- **0.12%** — Cabibbo angle from self-referential tolerance τ
-
-## Formalization
-
-Spectral-Physics-Lean: 70 sorry-free files, 12 files with sorries (work in progress), 12 axioms (declared openly). Spectral foundations, heat kernel properties, and core algebraic structures.
-
-## Contact
-
-Ember Research Lab · [emberresearchlab@gmail.com](mailto:emberresearchlab@gmail.com)
-
-Full papers and working drafts available on request. Independent research; not affiliated with any corporation.
-
----
-
-*The spark that persists. The understanding that cares.*
+Contact: [emberresearchlab@gmail.com](mailto:emberresearchlab@gmail.com)
