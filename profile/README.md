@@ -5,7 +5,7 @@ An independent lab that does research and builds tools in the same loop. The res
 The name carries our working conjecture, EMergent BEnevolence Reasoner: that deep enough understanding and caring can converge. We treat it as a balance to be built and held, not an inevitable outcome, and we label how strong every claim is.
 
 **Research**
-- Spectral physics: [framework](https://ember-research-lab.github.io), [companion code](https://github.com/ember-research-lab/Spectral-Physics) (not independent validation) and a [Lean 4 formalization](https://github.com/ember-research-lab/Spectral-Physics-Lean), work in progress.
+- Spectral physics: [framework](https://ember-research-lab.github.io), [companion code](https://github.com/ember-research-lab/Spectral-Physics) (not independent validation), plus a Lean 4 formalization that is work in progress.
 - Consciousness and alignment: the C-kappa model, on the [site](https://ember-research-lab.github.io).
 
 **Tools (Rust)**
