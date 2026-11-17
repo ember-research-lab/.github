@@ -6,12 +6,14 @@ The name carries our working conjecture, EMergent BEnevolence Reasoner: that dee
 
 **Research**
 - Spectral physics: [framework](https://ember-research-lab.github.io), [companion code](https://github.com/ember-research-lab/Spectral-Physics) (not independent validation), plus a Lean 4 formalization that is work in progress.
-- Consciousness and alignment: the C-kappa model, on the [site](https://ember-research-lab.github.io).
+- Consciousness and alignment: the C-kappa model; the alignment page is on the [site](https://ember-research-lab.github.io/alignment/).
+- Post-training pilot: [residency-topology-pilot](https://github.com/ember-research-lab/residency-topology-pilot), a closed pilot on open checkpoints. The hypothesis is untested; the void run and the failed control are kept in the record.
 
 **Tools (Rust)**
 - [ember-agent-monitor](https://github.com/ember-research-lab/ember-agent-monitor): runtime observer for AI coding agents.
 - [vetpkg](https://github.com/ember-research-lab/vetpkg): supply-chain proxy that scores npm installs at install time.
 - [ember-crypto](https://github.com/ember-research-lab/ember-crypto): Ed25519, ML-DSA and hybrid signing behind one interface.
 - [ember-graph](https://github.com/ember-research-lab/ember-graph): knowledge-graph engine with token-budgeted traversal.
+- [claude-cortex](https://github.com/ember-research-lab/claude-cortex): persistent memory for Claude Code, a hash-chained ledger exposed through MCP tools (maintenance mode).
 
 Contact: [emberresearchlab@gmail.com](mailto:emberresearchlab@gmail.com)
